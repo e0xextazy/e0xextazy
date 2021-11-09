@@ -19,7 +19,8 @@
 <details>
 <summary>⚡ GitHub Stats</summary>
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e0xextazy)](https://github.com/e0xextazy)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e0xextazy&layout=compact&theme=tokyonight)](https://github.com/e0xextazy)
+  
   [![e0xextazy's github stats](https://github-readme-stats.vercel.app/api?username=e0xextazy&show_icons=true?count_private=true&theme=tokyonight)](https://github.com/e0xextazy)
 
 </details>
