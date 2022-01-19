@@ -10,6 +10,10 @@
 [![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn)](https://github.com/e0xextazy)
 [![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/e0xextazy)
 
+### My Social Links
+[![DockerHub](https://img.shields.io/badge/-DockerHub-090909?style=for-the-badge&logo=Docker)](https://hub.docker.com/u/mbaushenko)
+[![ORCiD](https://img.shields.io/badge/-ORCiD-090909?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3901-7136)
+
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mark-baushenko)
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:m.baushenko@gmail.com)
