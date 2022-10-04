@@ -13,6 +13,7 @@
 ### My Social Links
 [![DockerHub](https://img.shields.io/badge/-DockerHub-090909?style=for-the-badge&logo=Docker)](https://hub.docker.com/u/mbaushenko)
 [![ORCiD](https://img.shields.io/badge/-ORCiD-090909?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-3901-7136)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/e0xextazy)
 
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mark-baushenko)
